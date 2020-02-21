@@ -1,5 +1,5 @@
 # fivem_ivblips
-Blips de Grand Theft Auto IV adapté pour FiveM.
+Blips of Grand Theft Auto IV adapted for FiveM. / Blips de Grand Theft Auto IV adapté pour FiveM.
 
 Screenshot : https://prnt.sc/plgm45
 
